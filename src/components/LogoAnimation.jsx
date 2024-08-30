@@ -10,19 +10,10 @@ const LogoAnimation = () => {
           <div className='logoParent'>
             
         <Logo className='logoDiv'/>
-        <Stick className='stickDiv'/>
+    
           </div>
         <div className='text'>Own Your Future</div>
-   {/*    <Logo className='logoDiv1'/>
-      <Logo className='logoDiv2'/>
-      <Logo className='logoDiv3'/>
-      <Logo className='logoDiv4'/>
-      <Logo className='logoDiv5'/>
-      <Logo className='logoDiv6'/>
-      <Logo className='logoDiv7'/>
-      <Logo className='logoDiv8'/>
-      <Logo className='logoDiv9'/>
-      <Logo className='logoDiv10'/> */}
+  
       </div>
     </div>
   )
