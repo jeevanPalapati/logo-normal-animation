@@ -1,5 +1,6 @@
 import React from 'react'
 import {ReactComponent as Logo} from "../assets/Logo.svg"
+import {ReactComponent as Stick} from "../assets/stick.svg"
 import "./LogoAnimation.css"
 
 const LogoAnimation = () => {
@@ -9,6 +10,7 @@ const LogoAnimation = () => {
           <div className='logoParent'>
             
         <Logo className='logoDiv'/>
+        <Stick className='stickDiv'/>
           </div>
         <div className='text'>Own Your Future</div>
    {/*    <Logo className='logoDiv1'/>
